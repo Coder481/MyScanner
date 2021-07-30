@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/scanQR"
+        android:title="Scan QR"
+        android:icon="@drawable/ic_baseline_qr_code_scanner_24"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/createQR"
+        android:title="Create QR"
+        android:icon="@drawable/ic_baseline_edit_24"
+        app:showAsAction="always"/>
+
+
+</menu>
