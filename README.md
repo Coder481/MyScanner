@@ -6,3 +6,4 @@ Download [apk](https://github.com/Coder481/MyScanner/releases/download/v1.0/app-
 * Using zxing library
 * Save qr scanned and created data offline
 * Room Database with kotlin-coroutines
+* Recycler View
